@@ -1,0 +1,43 @@
+.circular{
+	border-radius: 50%;
+}
+
+.carousel-caption{
+	position: absolute;
+	top: 20vh;
+	text-align: center;
+}
+
+#opacar{
+	opacity: 0.5;
+}
+
+footer{
+	background-color: #007bff;
+	color: #fff;
+	
+}
+footer ul li{
+	list-style: none;
+	
+}
+footer ul{
+	padding: 30px;
+}
+
+footer  #section2 ul li{
+	display: inline-block;
+}
+#section2 {
+	padding: 30px;
+}
+
+.form{
+	background: rgba(0, 0, 0, 0.1);
+	background-size: 100vw 100vh;	
+}
+
+.fondo{
+    background: rgba(0, 0, 0, 0.5);
+}
+
